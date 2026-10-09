@@ -6,8 +6,8 @@
 //    Input         : Integer, Integer 
 //    Output        : Integer
 //    Description   : Performs Addition
-//    Date          : 04/10/2026
-//    Author        : Sankalp Baban Devkar
+//    Date          : 09/10/2026
+//    Author        : Vishakha vinod Hiwrale
 //
 /////////////////////////////////////////////////////
 
