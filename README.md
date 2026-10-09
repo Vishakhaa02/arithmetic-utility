@@ -1,4 +1,4 @@
-# SumForge
+# Arithmetic Utility
 
 **A modular arithmetic utility written in C.**
 
